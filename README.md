@@ -17,6 +17,8 @@ FM radio band.
 This repo contains KiCAD files and Gerbers for those wanting to make their
 own boards.
 
+An [interactive BOM](bom/ibom-2m%20QSD%20PMOD-A.html) is available.
+
 This project is OSHW (Open Source Hardware), released under the GPLv3 license.
 
 ![lvds_pmod.png](lvds_pmod.png)
