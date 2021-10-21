@@ -1840,7 +1840,7 @@
   (gr_text "RF A" (at 171.25 87 -90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "LVDS PMOD\nRev A" (at 147.5 84.75) (layer F.SilkS)
+  (gr_text "2m QSD PMOD\nRev A" (at 147.5 84.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text ®©® (at 149.5 98.25) (layer F.Mask)
